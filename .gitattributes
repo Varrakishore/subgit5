@@ -1,3 +1,4 @@
 * text=auto !eol
 /file2.txt -text
 /request.pdf -text
+/request.png -text
