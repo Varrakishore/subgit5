@@ -1,4 +1,5 @@
 * text=auto !eol
+/1.docx -text
 /file2.txt -text
 /request.pdf -text
 /request.png -text
